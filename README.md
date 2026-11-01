@@ -53,7 +53,7 @@ NovaLearn is suitable for:
 
 Visit the official website:
 
-**https://khizarstar.github.io/novalearn/**
+**https://dark242011.github.io/novalearn/**
 
 ---
 
@@ -96,6 +96,6 @@ All rights reserved.
 
 ## ❤️ Developed By
 
-**Muhammad Khizar**
+**MK | PLAYZ**
 
 Built with dedication to provide free and accessible AI-powered education for everyone.
